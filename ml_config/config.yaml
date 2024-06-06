@@ -1,0 +1,8 @@
+learning_rate: 0.0001
+batch_size: 128
+discount_factor: 0.99
+eps_start: 0.9
+eps_end: 0.05
+eps_decay: 1000
+update_rate: 0.005
+episodes: 500
